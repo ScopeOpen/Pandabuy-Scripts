@@ -1,3 +1,9 @@
+# Greasyfork Script Links
+### [Cart Page Conversion Script](https://greasyfork.org/en/scripts/463216-pandabuy-cart-conversion-prices)
+### [Product Page Conversion Script](https://greasyfork.org/en/scripts/463217-pandabuy-product-price-conversion)
+### [Search Page Conversion Script](https://greasyfork.org/en/scripts/463218-pandabuy-search-price-conversion)
+### [Shipping Estimate Page Conversion Script](https://greasyfork.org/en/scripts/463219-pandabuy-shipping-conversion-prices)
+
 # To change your conversion please change this singular line
 
 #### If I wanted to go from aud to cad I would do
