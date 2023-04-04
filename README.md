@@ -1,7 +1,7 @@
 # Pandabuy-Scripts
-##Conversion scripts to show pandabuy in chosen currency
+## Conversion scripts to show pandabuy in chosen currency
 
-###How it should look
+### How it should look
 
 ![image](https://user-images.githubusercontent.com/94208670/229727990-93d19cb1-f152-4c9b-a1d7-1d939fa4f1da.png)
 ![image](https://user-images.githubusercontent.com/94208670/229728566-eb551865-6ae3-4013-b9ca-d5614d7136cf.png)
